@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Ian Dancun Mwangi SCT211-0005/2022
+"""
 
 def calculator():
     name = input('Enter your name: ')
