@@ -1,7 +1,15 @@
 # Programming Languages
 
-## Assignment One ([calculator.py](./calculator.py))
-Create a calculator for adding two numbers. Ask the user for the name, greet him/her (Hello {entered name}). Prompt the user to enter two numbers. Display the summation of the two numbers. (e.g The sum of the two numbers {number1} and {number2} is {sum})
+## Assignment One ([Assignment One](./Assignment-One/calculator.py))
+Create a calculator for adding two numbers. Ask the user for the name, greet him/her (Hello {entered name}). Prompt the user to enter two numbers. Display the summation of the two numbers. [Link to code](./Assignment-One/calculator.py)\
+Example of output
+```
+Enter your name: Ian Dancun
+Hello, Ian Dancun
+Enter the first number: 2
+Enter the second number: 3
+The sum of 2 and 3 is 5
+```
 
 ## Assignment Two ([Assignment Two](./Assignment-Two/))
 
@@ -21,3 +29,6 @@ inform the person if they are underweight, Normal weight or Overweight. ([Link t
 
 4. Create an app that takes an year as the input and informs you whether it is a leap year or
 not. ([Link to code](./Assignment-Two/leap_year.py))
+
+## Assignment Three ([Assignment Three](./Assignment-Three/))
+Remodel the simple calculator app to take an object oriented approach
